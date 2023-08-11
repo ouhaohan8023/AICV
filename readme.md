@@ -14,3 +14,7 @@
 5. pip install --upgrade tensorflow==1.15 -i https://pypi.tuna.tsinghua.edu.cn/simple  （分GPU tensorflow-gpu/CPU tensorflow）
 6. pip install protobuf==3.20 -i https://pypi.tuna.tsinghua.edu.cn/simple
 7. pip install python-dotenv -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+
+## 效果
+![example](https://raw.githubusercontent.com/ouhaohan8023/AICV/main/images/example.png)
