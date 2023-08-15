@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-  # 添加字符编码声明
+
 import cv2
 import sys
 import os
