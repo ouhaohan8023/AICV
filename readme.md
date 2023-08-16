@@ -18,3 +18,5 @@
 
 ## 效果
 ![example](https://raw.githubusercontent.com/ouhaohan8023/AICV/main/images/example.png)
+
+pip3 install torch torchvision torchaudio -i https://pypi.tuna.tsinghua.edu.cn/simple && pip install modelscope -i https://pypi.tuna.tsinghua.edu.cn/simple && pip3 install transformers -i https://pypi.tuna.tsinghua.edu.cn/simple && pip3 install opencv_python -i https://pypi.tuna.tsinghua.edu.cn/simple && pip install --upgrade tensorflow==1.15 -i https://pypi.tuna.tsinghua.edu.cn/simple &&  pip install protobuf==3.20 -i https://pypi.tuna.tsinghua.edu.cn/simple && pip install python-dotenv -i https://pypi.tuna.tsinghua.edu.cn/simple && pip install scikit-image -i https://pypi.tuna.tsinghua.edu.cn/simple
