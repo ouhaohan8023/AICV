@@ -15,6 +15,11 @@
 6. pip install protobuf==3.20 -i https://pypi.tuna.tsinghua.edu.cn/simple
 7. pip install python-dotenv -i https://pypi.tuna.tsinghua.edu.cn/simple
 8. pip install timm -i https://pypi.tuna.tsinghua.edu.cn/simple
+9. pip install kantts -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html -i https://pypi.tuna.tsinghua.edu.cn/simple
+10. pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple 
+11. pip install librosa -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html -i https://pypi.tuna.tsinghua.edu.cn/simple
 
+## 直接安装
+pip install "modelscope[audio]" -f https://modelscope.oss-cn-beijing.aliyuncs.com/releases/repo.html -i https://pypi.tuna.tsinghua.edu.cn/simple
 ## 效果
 ![example](https://raw.githubusercontent.com/ouhaohan8023/AICV/main/images/example.png)
